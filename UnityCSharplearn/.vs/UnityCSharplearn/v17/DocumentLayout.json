@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\UnityCSharplearn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F593610B-CB17-4E42-880E-3A01C04567BF}|UnityCSharplearn\\UnityCSharplearn.csproj|c:\\users\\\uBA85\uC9C4\uC7AC\\desktop\\unitycsharplearn\\unitycsharplearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F593610B-CB17-4E42-880E-3A01C04567BF}|UnityCSharplearn\\UnityCSharplearn.csproj|solutionrelative:unitycsharplearn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F593610B-CB17-4E42-880E-3A01C04567BF}|UnityCSharplearn\\UnityCSharplearn.csproj|c:\\users\\\uBA85\uC9C4\uC7AC\\desktop\\unitycsharplearn\\unitycsharplearn\\namespacetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F593610B-CB17-4E42-880E-3A01C04567BF}|UnityCSharplearn\\UnityCSharplearn.csproj|solutionrelative:unitycsharplearn\\namespacetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameSpaceTest.cs",
+              "DocumentMoniker": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\UnityCSharplearn\\UnityCSharplearn\\NameSpaceTest.cs",
+              "RelativeDocumentMoniker": "UnityCSharplearn\\NameSpaceTest.cs",
+              "ToolTip": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\UnityCSharplearn\\UnityCSharplearn\\NameSpaceTest.cs",
+              "RelativeToolTip": "UnityCSharplearn\\NameSpaceTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwB8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:17:19.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\UnityCSharplearn\\UnityCSharplearn\\Program.cs",
+              "RelativeDocumentMoniker": "UnityCSharplearn\\Program.cs",
+              "ToolTip": "C:\\Users\\\uBA85\uC9C4\uC7AC\\Desktop\\UnityCSharplearn\\UnityCSharplearn\\Program.cs",
+              "RelativeToolTip": "UnityCSharplearn\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvzoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T11:38:48.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
